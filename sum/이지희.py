@@ -18,10 +18,12 @@ for tc in range(10):
             sum_column = s
 
     sum_cross = 0
+    sum_cross_reverse = 0
     for t in range(100):
         sum_cross += my_list[t][t]
+        sum_cross_reverse += my_list[t][len(my_list) - t - 1]
 
-    result = max(sum_row, sum_column, sum_cross)
+    result = max(sum_row, sum_column, sum_cross, sum_cross_reverse)
 
     print("#", end="")
     print(N, end=" ")

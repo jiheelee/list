@@ -1,15 +1,9 @@
+list_data = list()
+result = [[0] * 5 for i in range(5)]
 
-snail_list = []
+for t in range(5):
+    list_data += list(map(int,input().split()))
+print(list_data)
+list_data.sort()
+print(list_data)
 
-for i in range(5):
-    arr = list(map(int,input().split()))
-    snail_list.extend(arr)
-print(snail_list)
-for i in range(24):
-    minIdx = i
-    for j in range(1,25):
-        if (snail_list[minIdx] > snail_list[j]):
-            minIdx = j
-        snail_list[i], snail_list[minIdx] = snail_list[minIdx], snail_list[i]
-
-print(snail_list)
