@@ -20,14 +20,12 @@ for tc in range(1,T+1):
     count_A = search(1,P,A)
     count_B = search(1,P,B)
     if count_A < count_B:
-        print("#",end="")
-        print(tc,end=" ")
-        print("A")
+        result = "A"
     elif count_B < count_A:
-        print("#", end="")
-        print(tc, end=" ")
-        print("B")
+        result = "B"
     else:
-        print("#", end="")
-        print(tc, end=" ")
-        print(0)
+        result = 0
+
+    print("#", end="")
+    print(tc, end=" ")
+    print(result)
