@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="461f5825-7e97-4785-892c-f7fa81b8824d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../글자수/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../글자수/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../글자수/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../글자수/이지희.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plus.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../회문2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../회문2/이지희.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../회문3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../회문3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../회문3/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../회문3/이지희.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hashcode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hashcode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../사다리/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../사다리/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plus.py" beforeDir="false" afterPath="$PROJECT_DIR$/plus.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,28 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/plus.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/git.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -57,8 +25,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1161" />
-    <option name="width" value="766" />
+    <option name="x" value="866" />
+    <option name="width" value="1061" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -138,9 +106,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1161" y="0" width="766" height="1047" extended-state="0" />
+    <frame x="866" y="0" width="1061" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11675824" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08308896" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -160,19 +128,19 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/plus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.6.egg/pip/_internal/vcs/git.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
             <element signature="e#0#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
         </state>
       </provider>
     </entry>
